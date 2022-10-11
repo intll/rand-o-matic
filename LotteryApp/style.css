@@ -1,0 +1,20 @@
+.big-text {
+	-fx-font-size: 30px;
+	-fx-font-weight: bold;
+}
+
+.button {
+	-fx-min-width: 175px;
+}
+
+.text-field {
+	-fx-max-width: 300px;
+}
+
+#info-text {
+	-fx-font-style: italic;
+}
+
+#result-text {
+	-fx-font-size: 24px;
+}
