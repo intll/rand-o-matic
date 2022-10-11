@@ -14,4 +14,4 @@ GLORY DANIELLA       - 2502003895\
 JASON ADRIEL         - 2501985451
 
 Result:\
-<img src="https://github.com/intll/dataset/raw/main/gui_result.gif" width="200px" height="200px"/>
+<img src="https://github.com/intll/dataset/raw/main/gui_result.gif" width="350px" height="350px"/>
