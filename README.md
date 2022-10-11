@@ -12,3 +12,6 @@ Created by:\
 ERIN KUMALA ALIWARGA - 2502003775\
 GLORY DANIELLA       - 2502003895\
 JASON ADRIEL         - 2501985451
+
+Result:
+<img src="gui_result.gif"/>
