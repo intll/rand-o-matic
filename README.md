@@ -1,5 +1,6 @@
 # rand-o-matic
-GUI Project for OOP Class.
+GUI Project for OOP Class\
+Built using JavaFX 19.
 
 This app features:
 - Inputting name for randomizing
